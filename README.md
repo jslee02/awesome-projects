@@ -15,6 +15,11 @@ A curated list of awesome projects from my experience
 * [C++ reference](http://en.cppreference.com/)
 * [C++ Samples](http://www.cppsamples.com/)
 
+## Other Awesome Lists
+
+* [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
