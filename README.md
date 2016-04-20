@@ -8,3 +8,7 @@ A curated list of awesome projects from my experience
 ## Test
 
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+
+## C++ References
+
+* [C++ Samples](http://www.cppsamples.com/)
