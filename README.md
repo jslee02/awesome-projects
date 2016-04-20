@@ -11,4 +11,5 @@ A curated list of awesome projects from my experience
 
 ## C++ References
 
+* [C++ reference](http://en.cppreference.com/)
 * [C++ Samples](http://www.cppsamples.com/)
