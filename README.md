@@ -33,6 +33,7 @@ A curated list of awesome projects from my experience
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ([Kor](https://github.com/CppKorea/CppCoreGuidelines))
 * [C++ reference](http://en.cppreference.com/)
 * [C++ Samples](http://www.cppsamples.com/)
+* [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 
 ## Other Awesome Lists
 
