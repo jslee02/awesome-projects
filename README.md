@@ -4,7 +4,9 @@ A curated list of awesome projects from my experience
 ## Development
 
 * [cloc](https://github.com/AlDanial/cloc) - _cloc_ counts blank lines, comment lines, and physical lines of source code in many programming languages.
+* [COVERALLS](https://coveralls.io/) - Test Coverage History & Statistics.
 * [Cppcheck](https://github.com/danmar/cppcheck)
+* [Reviewable](https://reviewable.io/) - Github Code review assistant.
 * [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
 
 ## Rendering / GUI
