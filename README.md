@@ -8,6 +8,11 @@ A curated list of awesome projects from my experience
 * [Cppcheck](https://github.com/danmar/cppcheck)
 * [Reviewable](https://reviewable.io/) - Github Code review assistant.
 * [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
+ 
+## Git/Mercurial GUI Client
+
+* [Git Kraken](https://www.gitkraken.com/)
+* [SmartGit](http://www.syntevo.com/smartgit/)
 
 ## Rendering / GUI
 
