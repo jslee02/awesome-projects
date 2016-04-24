@@ -11,7 +11,6 @@ A curated list of awesome projects from my experience
  
 ## Git/Mercurial GUI Client
 
-* [Git Kraken](https://www.gitkraken.com/)
 * [SmartGit](http://www.syntevo.com/smartgit/)
 
 ## Rendering / GUI
