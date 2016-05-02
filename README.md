@@ -8,6 +8,10 @@ A curated list of awesome projects from my experience
 * [Cppcheck](https://github.com/danmar/cppcheck)
 * [Reviewable](https://reviewable.io/) - Github Code review assistant.
 * [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
+
+### Code Formatter
+
+* [Uncrustify](http://uncrustify.sourceforge.net/) ([github](https://github.com/uncrustify/uncrustify)) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
  
 ## Git/Mercurial GUI Client
 
