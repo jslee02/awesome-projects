@@ -16,6 +16,7 @@ A curated list of awesome projects from my experience
 ## Git/Mercurial GUI Client
 
 * [SmartGit](http://www.syntevo.com/smartgit/)
+  * [Github Wiki Search](https://github.com/linyows/github-wiki-search)
 
 ## Rendering / GUI
 
