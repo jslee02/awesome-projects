@@ -13,10 +13,15 @@ A curated list of awesome projects from my experience
 
 * [Uncrustify](http://uncrustify.sourceforge.net/) ([github](https://github.com/uncrustify/uncrustify)) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
  
-## Git/Mercurial GUI Client
+## Git/Mercurial
+
+### GUI client
 
 * [SmartGit](http://www.syntevo.com/smartgit/)
-  * [Github Wiki Search](https://github.com/linyows/github-wiki-search)
+
+### Utilities
+
+* [Github Wiki Search](https://github.com/linyows/github-wiki-search)
 
 ## Rendering / GUI
 
