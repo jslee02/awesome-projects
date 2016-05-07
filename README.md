@@ -1,6 +1,9 @@
 # Awesome Projects
 A curated list of awesome projects from my experience
 
+## Benchmark / Profile
+* [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
+
 ## Development
 
 * [cloc](https://github.com/AlDanial/cloc) - _cloc_ counts blank lines, comment lines, and physical lines of source code in many programming languages.
