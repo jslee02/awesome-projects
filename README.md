@@ -30,6 +30,7 @@ A curated list of awesome projects from my experience
 
 * [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
 * [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
+* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 
 ## Logging
