@@ -26,12 +26,14 @@ A curated list of awesome projects from my experience
 
 * [Github Wiki Search](https://github.com/linyows/github-wiki-search)
 
-## Rendering / GUI
-
-* [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
+## 3D Rendering
 * [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
-* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary)) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
+
+## Rendering / GUI
+* [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
+* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
 
 ## Logging
 
