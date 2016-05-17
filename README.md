@@ -1,6 +1,43 @@
 # Awesome Projects
 A curated list of awesome projects from my experience
 
+#### Table of Contents
+* [Libraries](#libraries)
+* [Software / Web Services](#software-web-services)
+* [Other Awesome Lists](#other-awesome-lists)
+
+## Libraries
+
+## Math
+
+* [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
+* [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
+
+### 3D Rendering
+
+* [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary)) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
+
+### GUI
+
+* [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
+* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
+
+## Logging
+
+* [spdlog](https://github.com/gabime/spdlog) - Super fast C++ logging library.
+
+### Test
+
+* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+* [Google Test](https://github.com/google/googletest)
+
+### Benchmark / Profile
+
+* [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
+
 ## Software / Web Service
 
 ### Development
@@ -24,37 +61,6 @@ A curated list of awesome projects from my experience
 
 * [Github Wiki Search](https://github.com/linyows/github-wiki-search)
 
-## Library
-
-## Math
-
-* [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
-* [libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
-* [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
-
-### 3D Rendering
-
-* [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
-* [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary)) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
-
-### GUI
-
-* [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
-* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
-
-## Logging
-
-* [spdlog](https://github.com/gabime/spdlog) - Super fast C++ logging library.
-
-## Test
-
-* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
-* [Google Test](https://github.com/google/googletest)
-
-### Benchmark / Profile
-
-* [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
 
 ## ETC
 
@@ -72,6 +78,7 @@ A curated list of awesome projects from my experience
 
 * [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 
 ## License
 
