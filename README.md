@@ -8,7 +8,7 @@ A curated list of awesome projects from my experience
 
 ## Libraries
 
-## Math
+### Math
 
 * [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl)) - A simple C++ geometry processing library.
@@ -26,7 +26,7 @@ A curated list of awesome projects from my experience
 * [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
 * [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
 
-## Logging
+### Logging
 
 * [spdlog](https://github.com/gabime/spdlog) - Super fast C++ logging library.
 
@@ -38,6 +38,10 @@ A curated list of awesome projects from my experience
 ### Benchmark / Profile
 
 * [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
+
+### Python binding
+
+* pybind11 ([github](https://github.com/pybind/pybind11)) - Seamless operability between C++11 and Python.
 
 ## Software / Web Service
 
