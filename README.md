@@ -3,7 +3,7 @@ A curated list of awesome projects from my experience
 
 #### Table of Contents
 * [Libraries](#libraries)
-* [Software / Web Services](#software-web-services)
+* [Software / Web Services](#software--web-service)
 * [Other Awesome Lists](#other-awesome-lists)
 
 ## Libraries
