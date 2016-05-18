@@ -23,8 +23,8 @@ A curated list of awesome projects from my experience
 
 ### GUI
 
-* [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, window and input.
-* [NanoGUI](https://github.com/wjakob/nanogui) ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
+* [glfw](http://www.glfw.org/) ([github](https://github.com/glfw/glfw)) - A multi-platform library for OpenGL, window and input.
+* NanoGUI ([github](https://github.com/wjakob/nanogui)) - A minimalistic cross-platform widget library for OpenGL 3.x.
 
 ### Logging
 
