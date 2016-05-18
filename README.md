@@ -29,7 +29,7 @@ A curated list of awesome projects from my experience
 ### Logging
 
 * Loguru ([github](https://github.com/emilk/loguru)) - A header-only C++ logging library.
-* spdlog ([github](https://github.com/gabime/spdlog)) - Super fast C++ logging library.
+* spdlog ([github](https://github.com/gabime/spdlog)) - Very fast, header only, C++ logging library.
 
 ### Test
 
