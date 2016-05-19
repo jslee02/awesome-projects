@@ -17,6 +17,11 @@ A curated list of awesome projects from my experience
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
 
+### Meta Programming
+
+* Brigand ([github](https://github.com/edouarda/brigand)) - A light-weight, fully functional, instant-compile time C++ 11 meta-programming library.
+* [Metal](http://brunocodutra.github.io/metal/) ([github](https://github.com/brunocodutra/metal)) - A portable header-only C++14 library designed to make template metaprogramming enjoyable.
+
 ### 3D Rendering
 
 * [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
