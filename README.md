@@ -11,6 +11,7 @@ A curated list of awesome projects from my experience
 ### Math
 
 * [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization.
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl)) - A simple C++ geometry processing library.
 * [libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
