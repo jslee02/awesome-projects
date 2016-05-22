@@ -25,8 +25,8 @@ A curated list of awesome projects from my experience
 ### 3D Rendering
 
 * [bgfx](https://bkaradzic.github.io/bgfx/index.html) ([github](https://github.com/bkaradzic/bgfx)) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-* [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [Magnum](http://mosra.cz/blog/magnum.php) ([github](https://github.com/mosra/magnum)) - C++11/C++14 and OpenGL graphics engine.
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) ([github](https://github.com/openscenegraph/OpenSceneGraph)) - An open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling.
 * [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary)) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
 
 ### GUI
