@@ -24,6 +24,7 @@ A curated list of awesome projects from my experience
 
 ### 3D Rendering
 
+* [bgfx](https://bkaradzic.github.io/bgfx/index.html) ([github](https://github.com/bkaradzic/bgfx)) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [Magnum](https://github.com/mosra/magnum) - C++11/C++14 and OpenGL graphics engine.
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary)) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
