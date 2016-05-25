@@ -37,6 +37,10 @@ A curated list of awesome projects from my experience
 * imgui ([github](https://github.com/ocornut/imgui) :star: 3.6k) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
 * NanoGUI ([github](https://github.com/wjakob/nanogui) :star: 0.6k) - A minimalistic cross-platform widget library for OpenGL 3.x.
 
+### Game Engine
+
+* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE))
+
 ### Signal
 
 * wigwag ([github](https://github.com/koplyarov/wigwag)) - C++ signals library.
