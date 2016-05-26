@@ -54,6 +54,7 @@ A curated list of awesome projects from my experience
 ### Test
 
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+* doctest ([github](https://github.com/onqtam/doctest)) - The lightest feature rich C++ single header testing framework for unit tests and TDD.
 * [Google Test](https://github.com/google/googletest)
 
 ### Benchmark / Profile
