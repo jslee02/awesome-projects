@@ -10,6 +10,7 @@ A curated list of awesome projects from my experience
 
 ### Math
 
+* [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal)) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 * [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports [a wide range of functionality not available elsewhere](http://libelemental.org/about/).
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl)) - A simple C++ geometry processing library.
