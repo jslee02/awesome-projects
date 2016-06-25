@@ -41,6 +41,7 @@ A curated list of awesome projects from my experience
 ##### OpenCL Application Libraries
 
 * DeepCL ([github](https://github.com/hughperkins/DeepCL)) - OpenCL library to train deep convolutional neural networks.
+* libclsph ([github](https://github.com/libclsph/libclsph)) - OpenCL based GPU accelerated SPH fluid simulation library.
 * OpenCL-caffe ([github](https://github.com/amd/OpenCL-caffe)) - OpenCL version of caffe developed by AMD research lab.
 
 ### Meta Programming
