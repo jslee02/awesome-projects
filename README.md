@@ -57,6 +57,11 @@ A curated list of awesome projects from my experience
 * [Urho3D](http://urho3d.github.io/) ([github](https://github.com/urho3d/Urho3D) :star: 1.1k) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license.
 * [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary) :star: 36) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
 
+### Game Engine
+
+* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE))
+* LumixEngine ([github](https://github.com/nem0/lumixengine)) - 3D Game Engine.
+
 ### GUI
 
 * [glfw](http://www.glfw.org/) ([github](https://github.com/glfw/glfw) :star: 1.9k) - A multi-platform library for OpenGL, window and input.
@@ -65,18 +70,14 @@ A curated list of awesome projects from my experience
 * NanoGUI ([github](https://github.com/wjakob/nanogui) :star: 0.6k) - A minimalistic cross-platform widget library for OpenGL 3.x.
 * Nuklear ([github](https://github.com/vurtun/nuklear) :star: 4.6k) - A minimal state immediate mode graphical user interface toolkit written in ANSI C and licensed under public domain.
 
-### Game Engine
-
-* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE))
-
-### Signal
-
-* wigwag ([github](https://github.com/koplyarov/wigwag)) - C++ signals library.
-
 ### Logging
 
 * Loguru ([github](https://github.com/emilk/loguru)) - A header-only C++ logging library.
 * spdlog ([github](https://github.com/gabime/spdlog)) - Very fast, header only, C++ logging library.
+
+### Signal
+
+* wigwag ([github](https://github.com/koplyarov/wigwag)) - C++ signals library.
 
 ### Test
 
