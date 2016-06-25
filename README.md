@@ -8,6 +8,10 @@ A curated list of awesome projects from my experience
 
 ## Libraries
 
+### Benchmark / Profile
+
+* [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
+
 ### Math
 
 * [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal)) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
@@ -17,21 +21,34 @@ A curated list of awesome projects from my experience
 * [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu)) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 
-### SIMD
+### Parallel Programming
+
+#### SIMD
 
 * [libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
 
-#### Papers
+##### SIMD Papers
 
 * An evaluation of current SIMD programming models for C++ (2016) ([pdf](http://www.biagiocosenza.com/papers/PohlWPMVP16.pdf))
+
+#### OpenCL
+
+* [Chlorine](http://polytonic.github.io/Chlorine/) ([github](https://github.com/Polytonic/Chlorine)) - Dead Simple OpenCL (Compute).
+* EasyOpenCL ([github](https://github.com/Gladdy/EasyOpenCL)) - The easiest way to get started with OpenCL!
+* [VexCL](http://vexcl.readthedocs.org) ([github](https://github.com/ddemidov/vexcl)) - VexCL is a C++ vector expression template library for OpenCL/CUDA.
+
+##### OpenCL Application Libraries
+
+* DeepCL ([github](https://github.com/hughperkins/DeepCL)) - OpenCL library to train deep convolutional neural networks.
+* OpenCL-caffe ([github](https://github.com/amd/OpenCL-caffe)) - OpenCL version of caffe developed by AMD research lab.
 
 ### Meta Programming
 
 * Brigand ([github](https://github.com/edouarda/brigand)) - A light-weight, fully functional, instant-compile time C++ 11 meta-programming library.
 * [Metal](http://brunocodutra.github.io/metal/) ([github](https://github.com/brunocodutra/metal)) - A portable header-only C++14 library designed to make template metaprogramming enjoyable.
 
-### 3D Rendering
+### Graphics
 
 * [bgfx](https://bkaradzic.github.io/bgfx/index.html) ([github](https://github.com/bkaradzic/bgfx) :star: 1.9k) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
   * fips-bgfx ([github](https://github.com/floooh/fips-bgfx)) - fipsified version of bgfx (CMake support)
@@ -66,10 +83,6 @@ A curated list of awesome projects from my experience
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
 * doctest ([github](https://github.com/onqtam/doctest)) - The lightest feature rich C++ single header testing framework for unit tests and TDD.
 * [Google Test](https://github.com/google/googletest)
-
-### Benchmark / Profile
-
-* [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
 
 ### Python binding
 
