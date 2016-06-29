@@ -98,6 +98,10 @@ A curated list of awesome projects from my experience
 
 * pybind11 ([github](https://github.com/pybind/pybind11)) - Seamless operability between C++11 and Python.
 
+### ETC
+
+* args ([github](https://github.com/Taywee/args)) - A simple header-only C++ argument parser library.
+
 ## Software / Web Service
 
 ### Development
