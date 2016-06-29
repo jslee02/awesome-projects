@@ -53,6 +53,10 @@ A curated list of awesome projects from my experience
 * Brigand ([github](https://github.com/edouarda/brigand)) - A light-weight, fully functional, instant-compile time C++ 11 meta-programming library.
 * [Metal](http://brunocodutra.github.io/metal/) ([github](https://github.com/brunocodutra/metal)) - A portable header-only C++14 library designed to make template metaprogramming enjoyable.
 
+### IO
+
+* [cereal](http://uscilab.github.io/cereal/index.html) ([github](https://github.com/USCiLab/cereal)) - A C++11 library for serialization
+
 ### Graphics
 
 * [bgfx](https://bkaradzic.github.io/bgfx/index.html) ([github](https://github.com/bkaradzic/bgfx) :star: 1.9k) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
