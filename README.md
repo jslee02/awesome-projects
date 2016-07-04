@@ -37,6 +37,7 @@ A curated list of awesome projects from my experience
 ##### Wrapper
 
 * [Chlorine](http://polytonic.github.io/Chlorine/) ([github](https://github.com/Polytonic/Chlorine)) - Dead Simple OpenCL (Compute).
+* [Boost.Compute](http://boostorg.github.io/compute/) ([github](https://github.com/boostorg/compute)) - A C++ GPU Computing Library for OpenCL.
 * EasyCL ([github](https://github.com/hughperkins/EasyCL)) - Easy to run kernels using OpenCL
 * EasyOpenCL ([github](https://github.com/Gladdy/EasyOpenCL)) - The easiest way to get started with OpenCL!
 * [VexCL](http://vexcl.readthedocs.org) ([github](https://github.com/ddemidov/vexcl)) - VexCL is a C++ vector expression template library for OpenCL/CUDA.
