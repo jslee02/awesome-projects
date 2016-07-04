@@ -108,6 +108,7 @@ A curated list of awesome projects from my experience
 
 * [cloc](https://github.com/AlDanial/cloc) - _cloc_ counts blank lines, comment lines, and physical lines of source code in many programming languages.
 * [COVERALLS](https://coveralls.io/) - Test Coverage History & Statistics.
+* [Coverity](http://www.coverity.com/) - Software testing and static analysis tools
 * [Cppcheck](https://github.com/danmar/cppcheck)
 * [Reviewable](https://reviewable.io/) - Github Code review assistant.
 
