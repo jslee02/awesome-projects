@@ -21,6 +21,10 @@ A curated list of awesome projects from my experience
 * [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu)) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 
+### Deformable object simulation
+
+* [Vega FEM](http://run.usc.edu/vega/) - A computationally efficient and stable C/C++ physics library for three-dimensional deformable object simulation.
+
 ### Parallel Programming
 
 #### SIMD
