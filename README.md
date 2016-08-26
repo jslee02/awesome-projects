@@ -25,6 +25,10 @@ A curated list of awesome projects from my experience
 
 * [Vega FEM](http://run.usc.edu/vega/) - A computationally efficient and stable C/C++ physics library for three-dimensional deformable object simulation.
 
+### Machine Learning
+
+* NN++ ([github](https://github.com/stagadish/NNplusplus)) - A small and easy to use neural net implementation for C++.
+
 ### Parallel Programming
 
 #### SIMD
