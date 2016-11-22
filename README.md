@@ -135,6 +135,9 @@ A curated list of awesome projects from my experience
 
 * [Github Wiki Search](https://github.com/linyows/github-wiki-search)
 
+### Package managers
+
+* [vcpkg](https://github.com/Microsoft/vcpkg) - A package manager for Windows built by Microsoft.
 
 ## ETC
 
