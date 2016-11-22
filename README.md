@@ -30,20 +30,16 @@ A curated list of awesome projects from my experience
 
 * NN++ ([github](https://github.com/stagadish/NNplusplus)) - A small and easy to use neural net implementation for C++.
 
-### Parallel Programming
-
-#### SIMD
+### SIMD
 
 * [libsimdpp](https://github.com/p12tic/libsimdpp) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++
 
-##### SIMD Papers
+### SIMD Papers
 
 * An evaluation of current SIMD programming models for C++ (2016) ([pdf](http://www.biagiocosenza.com/papers/PohlWPMVP16.pdf))
 
-#### OpenCL
-
-##### Wrapper
+### OpenCL - Wrappers
 
 * [Chlorine](http://polytonic.github.io/Chlorine/) ([github](https://github.com/Polytonic/Chlorine)) - Dead Simple OpenCL (Compute).
 * [Boost.Compute](http://boostorg.github.io/compute/) ([github](https://github.com/boostorg/compute)) - A C++ GPU Computing Library for OpenCL.
@@ -51,7 +47,7 @@ A curated list of awesome projects from my experience
 * EasyOpenCL ([github](https://github.com/Gladdy/EasyOpenCL)) - The easiest way to get started with OpenCL!
 * [VexCL](http://vexcl.readthedocs.org) ([github](https://github.com/ddemidov/vexcl)) - VexCL is a C++ vector expression template library for OpenCL/CUDA.
 
-##### OpenCL Application Libraries
+### OpenCL - Applications
 
 * [Bullet](http://bulletphysics.org/wordpress/) ([github](https://github.com/bulletphysics/bullet3)) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.)
 * DeepCL ([github](https://github.com/hughperkins/DeepCL)) - OpenCL library to train deep convolutional neural networks.
@@ -112,6 +108,8 @@ A curated list of awesome projects from my experience
 
 * args ([github](https://github.com/Taywee/args)) - A simple header-only C++ argument parser library.
 
+---
+
 ## Software / Web Service
 
 ### Development
@@ -140,23 +138,26 @@ A curated list of awesome projects from my experience
 
 * [vcpkg](https://github.com/Microsoft/vcpkg) - A package manager for Windows built by Microsoft.
 
+---
+
 ## ETC
 
-* [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
-
-## C++ References
+### C++ References / Guidelines
 
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ([Kor](https://github.com/CppKorea/CppCoreGuidelines))
   * [GSL](https://github.com/Microsoft/GSL) - Guidelines Support Library by Microsoft
 * [C++ reference](http://en.cppreference.com/)
 * [C++ Samples](http://www.cppsamples.com/)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+* [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
 
-## Other Awesome Lists
+### Other Awesome Lists
 
 * [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+
+---
 
 ## License
 
