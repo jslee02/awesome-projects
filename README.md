@@ -20,7 +20,7 @@ A curated list of awesome projects from my experience
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl)) - A simple C++ geometry processing library.
 * [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu)) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
-* SymEngine ([github](https://github.com/symengine/symengine)) - A fast symbolic manipulation library written in C++.
+* SymEngine ([github](https://github.com/symengine/symengine) ![symengine](https://img.shields.io/github/stars/symengine/symengine.svg?style=social&label=Star&maxAge=2592000)) - A fast symbolic manipulation library written in C++.
 
 ### Deformable object simulation
 
