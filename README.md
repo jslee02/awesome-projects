@@ -14,8 +14,9 @@ A curated list of awesome projects from my experience
 
 ### Math
 
+* Blaze ([bitbucket](https://bitbucket.org/blaze-lib/blaze)) - An open-soure, high-performance C++ math library for dense and sparse arithmetic.
 * [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal)) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
-* [Eigen](https://bitbucket.org/eigen/eigen/) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) ([bitbucket](https://bitbucket.org/eigen/eigen/)) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports [a wide range of functionality not available elsewhere](http://libelemental.org/about/).
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl)) - A simple C++ geometry processing library.
 * [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu)) - C++ math library developed primarily for games focused on simplicity and efficiency.
@@ -61,7 +62,7 @@ A curated list of awesome projects from my experience
 
 ### IO
 
-* [cereal](http://uscilab.github.io/cereal/index.html) ([github](https://github.com/USCiLab/cereal)) - A C++11 library for serialization
+* [cereal](http://uscilab.github.io/cereal/index.html) ([github](https://github.com/USCiLab/cereal) ![cereal](https://img.shields.io/github/stars/USCiLab/cereal.svg?style=social&label=Star&maxAge=2592000)) - A C++11 library for serialization
 
 ### Graphics
 
