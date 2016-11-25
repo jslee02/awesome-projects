@@ -149,6 +149,7 @@ A curated list of awesome projects from my experience
   * [GSL](https://github.com/Microsoft/GSL) - Guidelines Support Library by Microsoft
 * [C++ reference](http://en.cppreference.com/)
 * [C++ Samples](http://www.cppsamples.com/)
+* [Modern C++11 Features](https://github.com/AnthonyCalandra/modern-cpp-features) (![modern-cpp-features](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features.svg?style=social&label=Star&maxAge=2592000))
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 * [Semantic Versioning Specification](https://github.com/mojombo/semver/blob/master/semver.md)
 
