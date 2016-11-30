@@ -158,6 +158,7 @@ A curated list of awesome projects from my experience
 * [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ---
 
