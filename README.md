@@ -108,7 +108,7 @@ A curated list of awesome projects from my experience
 ### ETC
 
 * args ([github](https://github.com/Taywee/args)) - A simple header-only C++ argument parser library.
-* [rang](https://agauniyal.github.io/rang/) ([github](https://github.com/agauniyal/rang)) - A Minimal, Header only Modern c++ library for colors in your terminal 
+* [rang](https://agauniyal.github.io/rang/) ([github](https://github.com/agauniyal/rang) ![rang](https://img.shields.io/github/stars/agauniyal/rang.svg?style=social&label=Star&maxAge=2592000)) - A Minimal, Header only Modern c++ library for colors in your terminal 
 
 ---
 
