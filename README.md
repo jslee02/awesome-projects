@@ -75,8 +75,9 @@ A curated list of awesome projects from my experience
 
 ### Game Engine
 
-* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE))
-* LumixEngine ([github](https://github.com/nem0/lumixengine)) - 3D Game Engine.
+* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) ![CRYENGINE](https://img.shields.io/github/stars/CRYTEK-CRYENGINE/CRYENGINE.svg?style=social&label=Star&maxAge=2592000))
+* Cubby ([github](https://github.com/MineScroll/Cubby) ![Cubby](https://img.shields.io/github/stars/MineScroll/Cubby.svg?style=social&label=Star&maxAge=2592000)) - Voxel-based Game Engine for MineScroll (based on AlwayGeeky's Vox)
+* LumixEngine ([github](https://github.com/nem0/lumixengine) ![lumixengine](https://img.shields.io/github/stars/nem0/lumixengine.svg?style=social&label=Star&maxAge=2592000)) - 3D Game Engine.
 
 ### GUI
 
