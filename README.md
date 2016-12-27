@@ -109,6 +109,7 @@ A curated list of awesome projects from my experience
 ### ETC
 
 * args ([github](https://github.com/Taywee/args) ![args](https://img.shields.io/github/stars/Taywee/args.svg?style=social&label=Star&maxAge=2592000)) - A simple header-only C++ argument parser library.
+* [FreeCAD](http://www.freecadweb.org/) ([github](https://github.com/FreeCAD/FreeCAD) ![FreeCAD](https://img.shields.io/github/stars/FreeCAD/FreeCAD.svg?style=social&label=Star&maxAge=2592000)) - A general purpose feature-based, parametric 3D modeler for CAD, MCAD, CAx, CAE and PLM, aimed directly at mechanical engineering and product design but also fits a wider range of uses in engineering, such as architecture or other engineering specialties.
 * [rang](https://agauniyal.github.io/rang/) ([github](https://github.com/agauniyal/rang) ![rang](https://img.shields.io/github/stars/agauniyal/rang.svg?style=social&label=Star&maxAge=2592000)) - A Minimal, Header only Modern c++ library for colors in your terminal 
 
 ---
