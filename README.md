@@ -78,6 +78,10 @@ A curated list of awesome projects from my experience
 * [Urho3D](http://urho3d.github.io/) ([github](https://github.com/urho3d/Urho3D) :star: 1.1k) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license.
 * [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary) :star: 36) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
 
+###### 2d Image Processing
+
+* guetzli ([github](https://github.com/google/guetzli) ![guetzli](https://img.shields.io/github/stars/google/guetzli.svg?style=social&label=Star&maxAge=2592000)) - A JPEG encoder that aims for excellent compression density at high visual quality.
+
 ### Game Engine
 
 * [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) ![CRYENGINE](https://img.shields.io/github/stars/CRYTEK-CRYENGINE/CRYENGINE.svg?style=social&label=Star&maxAge=2592000))
