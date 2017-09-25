@@ -15,6 +15,7 @@ A curated list of awesome projects from my experience
 * microprofile ([github](https://github.com/jonasmr/microprofile) ![microprofile](https://img.shields.io/github/stars/jonasmr/microprofile.svg?style=social&label=Star&maxAge=2592000)) - An embeddable profiler.
 * Remotery ([github](https://github.com/Celtoys/Remotery) ![Remotery](https://img.shields.io/github/stars/Celtoys/Remotery.svg?style=social&label=Star&maxAge=2592000)) - Realtime CPU/D3D/OpenGL/CUDA/Metal Profiler in a single C file with web browser viewer.
 * [semile](http://r-kan.github.io/semile/) ([github](https://github.com/r-kan/semile)) - A profiling framework provides the ability to monitor programs, in general of any programming language with (1) consumed time per execution and (2) 'footprint' message per execution
+* [Orbit Profiler](http://www.telescopp.com/) ([github](https://github.com/pierricgimmig/orbitprofiler)) - A standalone C/C++ profiler for Windows. Its main purpose is to help developers visualize the execution flow of a complex application.
 
 ### Math
 
