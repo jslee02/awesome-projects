@@ -20,13 +20,13 @@ A curated list of awesome projects from my experience
 ### Math
 
 * Blaze ([bitbucket](https://bitbucket.org/blaze-lib/blaze)) - An open-soure, high-performance C++ math library for dense and sparse arithmetic.
-* [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal) ![CGAL/cgal](https://img.shields.io/github/stars/CGAL/cgal.svg?style=social&label=Star&maxAge=2592000)) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
+* [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal) ![CGAL/cgal](https://img.shields.io/github/stars/CGAL/cgal.svg?style=social&label=Star) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) ([bitbucket](https://bitbucket.org/eigen/eigen/)) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
-* [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental) ![elemental/Elemental](https://img.shields.io/github/stars/elemental/Elemental.svg?style=social&label=Star&maxAge=2592000)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports [a wide range of functionality not available elsewhere](http://libelemental.org/about/).
-* [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star&maxAge=2592000)) - A simple C++ geometry processing library.
-* [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu) ![google/mathfu](https://img.shields.io/github/stars/google/mathfu.svg?style=social&label=Star&maxAge=2592000)) - C++ math library developed primarily for games focused on simplicity and efficiency.
-* [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib) ![juj/MathGeoLib](https://img.shields.io/github/stars/juj/MathGeoLib.svg?style=social&label=Star&maxAge=2592000)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
-* SymEngine ([github](https://github.com/symengine/symengine) ![symengine](https://img.shields.io/github/stars/symengine/symengine.svg?style=social&label=Star&maxAge=2592000)) - A fast symbolic manipulation library written in C++.
+* [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental) ![elemental/Elemental](https://img.shields.io/github/stars/elemental/Elemental.svg?style=social&label=Star)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports [a wide range of functionality not available elsewhere](http://libelemental.org/about/).
+* [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star)) - A simple C++ geometry processing library.
+* [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu) ![google/mathfu](https://img.shields.io/github/stars/google/mathfu.svg?style=social&label=Star)) - C++ math library developed primarily for games focused on simplicity and efficiency.
+* [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib) ![juj/MathGeoLib](https://img.shields.io/github/stars/juj/MathGeoLib.svg?style=social&label=Star)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
+* SymEngine ([github](https://github.com/symengine/symengine) ![symengine](https://img.shields.io/github/stars/symengine/symengine.svg?style=social&label=Star)) - A fast symbolic manipulation library written in C++.
 
 ### Deformable object simulation
 
