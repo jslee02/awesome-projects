@@ -92,6 +92,7 @@ A curated list of awesome projects from my experience
 ### GUI
 
 * [glfw](http://www.glfw.org/) ([github](https://github.com/glfw/glfw) :star: 1.9k) - A multi-platform library for OpenGL, window and input.
+* im3d ([github](https://github.com/john-chapman/im3d) ![john-chapman/im3d](https://img.shields.io/github/stars/john-chapman/im3d.svg?style=social&label=Star&maxAge=2592000)) - Immediate mode rendering and 3d gizmos.
 * imgui ([github](https://github.com/ocornut/imgui) ![imgui](https://img.shields.io/github/stars/ocornut/imgui.svg?style=social&label=Star&maxAge=2592000)) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
   * ImGui Addons ([github](https://github.com/Flix01/imgui) ![Flix01/imgui](https://img.shields.io/github/stars/Flix01/imgui.svg?style=social&label=Star&maxAge=2592000)) - A collection of "extra imgui widgets"
   * ImWindow ([github](https://github.com/thennequin/ImWindow)) - Window and GUI system based on ImGui from OCornut.
