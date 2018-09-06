@@ -42,6 +42,7 @@ A curated list of awesome projects from my experience
 
 * libsimdpp ([github](https://github.com/p12tic/libsimdpp) ![cereal](https://img.shields.io/github/stars/p12tic/libsimdpp.svg?style=social&label=Star&maxAge=2592000)) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
 * Vc ([github](https://github.com/VcDevel/Vc) ![Vc](https://img.shields.io/github/stars/VcDevel/Vc.svg?style=social&label=Star&maxAge=2592000)) - SIMD Vector Classes for C++
+* [xsimd](https://xsimd.readthedocs.io/en/latest/) ([github](https://github.com/QuantStack/xsimd) ![QuantStack/xsimd](https://img.shields.io/github/stars/QuantStack/xsimd.svg?style=social&label=Star&maxAge=2592000)) - C++ wrappers for SIMD intrinsics
 
 ### SIMD Papers
 
