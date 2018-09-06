@@ -28,6 +28,7 @@ A curated list of awesome projects from my experience
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib) ![juj/MathGeoLib](https://img.shields.io/github/stars/juj/MathGeoLib.svg?style=social&label=Star)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 * mgcpp ([github](https://github.com/MGfoundation/mgcpp) ![MGfoundation/mgcpp](https://img.shields.io/github/stars/MGfoundation/mgcpp.svg?style=social&label=Star)) - A CUDA based C++ linear algebra library.
 * SymEngine ([github](https://github.com/symengine/symengine) ![symengine](https://img.shields.io/github/stars/symengine/symengine.svg?style=social&label=Star)) - A fast symbolic manipulation library written in C++.
+* [xtensor](http://quantstack.net/xtensor) ([github](https://github.com/QuantStack/xtensor) ![QuantStack/xtensor](https://img.shields.io/github/stars/QuantStack/xtensor.svg?style=social&label=Star)) - A C++ library meant for numerical analysis with multi-dimensional array expressions.
 
 ### Deformable object simulation
 
