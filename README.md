@@ -32,6 +32,7 @@ A curated list of awesome projects from my experience
 
 ### Deformable object simulation
 
+* [MFEM](http://mfem.org/) ([github](https://github.com/p12tic/libsimdpp) ![mfem/mfem](https://img.shields.io/github/stars/mfem/mfem.svg?style=social&label=Star&maxAge=2592000)) - A free, lightweight, scalable C++ library for finite element methods.
 * [Vega FEM](http://run.usc.edu/vega/) - A computationally efficient and stable C/C++ physics library for three-dimensional deformable object simulation.
 
 ### Machine Learning
