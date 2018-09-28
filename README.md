@@ -127,6 +127,7 @@ A curated list of awesome projects from my experience
 ### Memory Allocator
 
 * [memory](https://foonathan.net/doc/memory/) - STL compatible C++ memory allocator library [[github](https://github.com/foonathan/memory) ![foonathan/memory](https://img.shields.io/github/stars/foonathan/memory.svg?style=social&label=Star&maxAge=2592000)]
+* memory-allocators - Custom memory allocators in C++ to improve the performance of dynamic memory allocation [[github](https://github.com/mtrebi/memory-allocators) ![mtrebi/memory-allocators](https://img.shields.io/github/stars/mtrebi/memory-allocators.svg?style=social&label=Star&maxAge=2592000)]
 
 ### ETC
 
