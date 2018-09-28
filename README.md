@@ -129,6 +129,10 @@ A curated list of awesome projects from my experience
 * [memory](https://foonathan.net/doc/memory/) - STL compatible C++ memory allocator library [[github](https://github.com/foonathan/memory) ![foonathan/memory](https://img.shields.io/github/stars/foonathan/memory.svg?style=social&label=Star&maxAge=2592000)]
 * memory-allocators - Custom memory allocators in C++ to improve the performance of dynamic memory allocation [[github](https://github.com/mtrebi/memory-allocators) ![mtrebi/memory-allocators](https://img.shields.io/github/stars/mtrebi/memory-allocators.svg?style=social&label=Star&maxAge=2592000)]
 
+### Entity Component System
+
+* ECS - C++ header-only type-safe entity component system library [[github](https://github.com/redxdev/ECS) ![redxdev/ECS](https://img.shields.io/github/stars/redxdev/ECS.svg?style=social&label=Star&maxAge=2592000)]
+
 ### ETC
 
 * args ([github](https://github.com/Taywee/args) ![args](https://img.shields.io/github/stars/Taywee/args.svg?style=social&label=Star&maxAge=2592000)) - A simple header-only C++ argument parser library.
