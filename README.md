@@ -93,6 +93,7 @@ A curated list of awesome projects from my experience
 * Cubby ([github](https://github.com/MineScroll/Cubby) ![Cubby](https://img.shields.io/github/stars/MineScroll/Cubby.svg?style=social&label=Star&maxAge=2592000)) - Voxel-based Game Engine for MineScroll (based on AlwayGeeky's Vox)
 * LumixEngine ([github](https://github.com/nem0/lumixengine) ![lumixengine](https://img.shields.io/github/stars/nem0/lumixengine.svg?style=social&label=Star&maxAge=2592000)) - 3D Game Engine.
 * [shiva](https://shiva.gitbook.io/project/shiva) ([github](https://github.com/Milerius/shiva) ![Milerius/shiva](https://img.shields.io/github/stars/Milerius/shiva.svg?style=social&label=Star&maxAge=2592000))
+* [Wicked Engine](https://turanszkij.wordpress.com/) ([github](https://github.com/turanszkij/WickedEngine) ![turanszkij/WickedEngine](https://img.shields.io/github/stars/turanszkij/WickedEngine.svg?style=social&label=Star&maxAge=2592000))
 
 ### GUI
 
