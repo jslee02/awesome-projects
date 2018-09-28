@@ -124,6 +124,10 @@ A curated list of awesome projects from my experience
 
 * pybind11 ([github](https://github.com/pybind/pybind11)) - Seamless operability between C++11 and Python.
 
+### Memory Allocator
+
+* [memory](https://foonathan.net/doc/memory/) - STL compatible C++ memory allocator library [[github](https://github.com/foonathan/memory) ![foonathan/memory](https://img.shields.io/github/stars/foonathan/memory.svg?style=social&label=Star&maxAge=2592000)]
+
 ### ETC
 
 * args ([github](https://github.com/Taywee/args) ![args](https://img.shields.io/github/stars/Taywee/args.svg?style=social&label=Star&maxAge=2592000)) - A simple header-only C++ argument parser library.
