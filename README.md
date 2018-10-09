@@ -131,7 +131,13 @@ A curated list of awesome projects from my experience
 
 ### Entity Component System
 
+#### Code
+
 * ECS - C++ header-only type-safe entity component system library [[github](https://github.com/redxdev/ECS) ![redxdev/ECS](https://img.shields.io/github/stars/redxdev/ECS.svg?style=social&label=Star&maxAge=2592000)]
+
+#### Articles
+
+* Entity Component Systems & Data Oriented Design [slides](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
 
 ### ETC
 
