@@ -137,7 +137,7 @@ A curated list of awesome projects from my experience
 
 #### Articles
 
-* Entity Component Systems & Data Oriented Design [slides](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)
+* Entity Component Systems & Data Oriented Design [[slides](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf)]
 
 ### ETC
 
