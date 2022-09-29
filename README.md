@@ -10,7 +10,6 @@ A curated list of awesome projects from my experience
 
 ### Benchmark / Profile
 
-* [brofiler](http://brofiler.com/) ([github](https://github.com/bombomby/brofiler) ![brofiler](https://img.shields.io/github/stars/bombomby/brofiler.svg?style=social&label=Star&maxAge=2592000)) - C++ Profiler For Games.
 * easy_profiler ([github](https://github.com/yse/easy_profiler) ![easy_profiler](https://img.shields.io/github/stars/yse/easy_profiler.svg?style=social&label=Star&maxAge=2592000)) - Lightweight cross-platform profiler library for C++.
 * microprofile ([github](https://github.com/jonasmr/microprofile) ![microprofile](https://img.shields.io/github/stars/jonasmr/microprofile.svg?style=social&label=Star&maxAge=2592000)) - An embeddable profiler.
 * [Optick](https://optick.dev/) ([github](https://github.com/bombomby/optick) ![bombomby/optick](https://img.shields.io/github/stars/bombomby/optick.svg?style=social&label=Star&maxAge=2592000)) - C++ Profiler For Games.
