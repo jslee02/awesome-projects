@@ -43,7 +43,7 @@ A curated list of awesome projects from my experience
 ### SIMD
 
 * [Enoki](https://enoki.readthedocs.io/en/master/index.html) ([github](https://github.com/mitsuba-renderer/enoki) ![mitsuba-renderer/enoki](https://img.shields.io/github/stars/mitsuba-renderer/enoki.svg?style=social&label=Star&maxAge=2592000)) - Structured vectorization and differentiation on modern processor architectures
-* libsimdpp ([github](https://github.com/p12tic/libsimdpp) ![cereal](https://img.shields.io/github/stars/p12tic/libsimdpp.svg?style=social&label=Star&maxAge=2592000)) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
+* libsimdpp ([github](https://github.com/p12tic/libsimdpp) ![libsimdpp](https://img.shields.io/github/stars/p12tic/libsimdpp.svg?style=social&label=Star&maxAge=2592000)) - Header-only zero-overhead C++ wrapper for SIMD intrinsics of multiple instruction sets.
 * Vc ([github](https://github.com/VcDevel/Vc) ![Vc](https://img.shields.io/github/stars/VcDevel/Vc.svg?style=social&label=Star&maxAge=2592000)) - SIMD Vector Classes for C++
 * [xsimd](https://xsimd.readthedocs.io/en/latest/) ([github](https://github.com/QuantStack/xsimd) ![QuantStack/xsimd](https://img.shields.io/github/stars/QuantStack/xsimd.svg?style=social&label=Star&maxAge=2592000)) - C++ wrappers for SIMD intrinsics
 
@@ -74,6 +74,7 @@ A curated list of awesome projects from my experience
 ### IO
 
 * [cereal](http://uscilab.github.io/cereal/index.html) ([github](https://github.com/USCiLab/cereal) ![cereal](https://img.shields.io/github/stars/USCiLab/cereal.svg?style=social&label=Star&maxAge=2592000)) - A C++11 library for serialization
+* [cista](https://cista.rocks/) ([github](https://github.com/felixguendling/cista) ![felixguendling/cista](https://img.shields.io/github/stars/felixguendling/cista.svg?style=social&label=Star&maxAge=2592000)) - Ssimple, high-performance, zero-copy C++ serialization & reflection library
 
 ### Graphics
 
