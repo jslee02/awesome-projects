@@ -1,12 +1,47 @@
 # Awesome Projects
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome projects from my experience
 
-#### Table of Contents
-* [Libraries](#libraries)
-* [Software / Web Services](#software--web-service)
-* [Other Awesome Lists](#other-awesome-lists)
+## Contents
 
-## Libraries
+- [Libraries](#libraries)
+  - [Benchmark / Profile](#benchmark-profile)
+  - [Math](#math)
+  - [Deformable object simulation](#deformable-object-simulation)
+  - [Machine Learning](#machine-learning)
+  - [SIMD](#simd)
+  - [SIMD Papers](#simd-papers)
+  - [OpenCL - Wrappers](#opencl---wrappers)
+  - [OpenCL - Applications](#opencl---applications)
+  - [Meta Programming](#meta-programming)
+  - [IO](#io)
+  - [Graphics](#graphics)
+    - [2d Image Processing](#2d-image-processing)
+  - [Game Engine](#game-engine)
+  - [GUI](#gui)
+  - [Logging](#logging)
+  - [Signal](#signal)
+  - [Test](#test)
+  - [Python binding](#python-binding)
+  - [Memory Allocator](#memory-allocator)
+  - [Entity Component System](#entity-component-system)
+    - [Code](#code)
+    - [Articles](#articles)
+  - [ETC](#etc)
+- [Software / Web Service](#software-web-service)
+  - [Development](#development)
+  - [Code Formatter](#code-formatter)
+  - [Git/Mercurial](#gitmercurial)
+    - [GUI client](#gui-client)
+    - [Utilities](#utilities)
+  - [Package managers](#package-managers)
+- [ETC](#etc)
+  - [C++ References / Guidelines](#c-references-guidelines)
+  - [Other Awesome Lists](#other-awesome-lists)
+
+## [Libraries](#contents)
 
 ### Benchmark / Profile
 
@@ -22,14 +57,14 @@ A curated list of awesome projects from my experience
 
 * Blaze ([bitbucket](https://bitbucket.org/blaze-lib/blaze)) - An open-soure, high-performance C++ math library for dense and sparse arithmetic.
 * [CGAL](http://www.cgal.org/) ([github](https://github.com/CGAL/cgal) ![CGAL/cgal](https://img.shields.io/github/stars/CGAL/cgal.svg?style=social&label=Star) -  A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
-* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) ([bitbucket](https://bitbucket.org/eigen/eigen/)) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
-* [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental) ![elemental/Elemental](https://img.shields.io/github/stars/elemental/Elemental.svg?style=social&label=Star)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports [a wide range of functionality not available elsewhere](http://libelemental.org/about/).
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) ([gitlab](https://gitlab.com/libeigen/eigen)) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Elemental](http://libelemental.org/) ([github](https://github.com/elemental/Elemental) ![elemental/Elemental](https://img.shields.io/github/stars/elemental/Elemental.svg?style=social&label=Star)) - A modern C++ library for distributed-memory dense and sparse-direct linear algebra and optimization which supports a wide range of functionality not available elsewhere.
 * [libigl](http://libigl.github.io/libigl/) ([github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star)) - A simple C++ geometry processing library.
 * [MathFu](http://google.github.io/mathfu/) ([github](https://github.com/google/mathfu) ![google/mathfu](https://img.shields.io/github/stars/google/mathfu.svg?style=social&label=Star)) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [MathGeoLib](http://clb.demon.fi/MathGeoLib/nightly/) ([github](https://github.com/juj/MathGeoLib) ![juj/MathGeoLib](https://img.shields.io/github/stars/juj/MathGeoLib.svg?style=social&label=Star)) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 * mgcpp ([github](https://github.com/MGfoundation/mgcpp) ![MGfoundation/mgcpp](https://img.shields.io/github/stars/MGfoundation/mgcpp.svg?style=social&label=Star)) - A CUDA based C++ linear algebra library.
 * SymEngine ([github](https://github.com/symengine/symengine) ![symengine](https://img.shields.io/github/stars/symengine/symengine.svg?style=social&label=Star)) - A fast symbolic manipulation library written in C++.
-* [xtensor](http://quantstack.net/xtensor) ([github](https://github.com/QuantStack/xtensor) ![QuantStack/xtensor](https://img.shields.io/github/stars/QuantStack/xtensor.svg?style=social&label=Star)) - A C++ library meant for numerical analysis with multi-dimensional array expressions.
+* [xtensor](https://xtensor.readthedocs.io/en/latest/) ([github](https://github.com/xtensor-stack/xtensor) ![xtensor-stack/xtensor](https://img.shields.io/github/stars/xtensor-stack/xtensor.svg?style=social&label=Star)) - A C++ library meant for numerical analysis with multi-dimensional array expressions.
 
 ### Deformable object simulation
 
@@ -88,13 +123,13 @@ A curated list of awesome projects from my experience
 * [Urho3D](http://urho3d.github.io/) ([github](https://github.com/urho3d/Urho3D) :star: 1.1k) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license.
 * [VisualizationLibrary](http://visualizationlibrary.org/documentation/) ([github](https://github.com/MicBosi/VisualizationLibrary) :star: 36) - A lightweight C++ OpenGL middleware for 2D/3D graphics.
 
-###### 2d Image Processing
+#### 2d Image Processing
 
 * guetzli ([github](https://github.com/google/guetzli) ![guetzli](https://img.shields.io/github/stars/google/guetzli.svg?style=social&label=Star&maxAge=2592000)) - A JPEG encoder that aims for excellent compression density at high visual quality.
 
 ### Game Engine
 
-* [CRYENGINE](https://www.cryengine.com/) ([github](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) ![CRYENGINE](https://img.shields.io/github/stars/CRYTEK-CRYENGINE/CRYENGINE.svg?style=social&label=Star&maxAge=2592000))
+* [CRYENGINE](https://www.cryengine.com/)
 * Cubby ([github](https://github.com/MineScroll/Cubby) ![Cubby](https://img.shields.io/github/stars/MineScroll/Cubby.svg?style=social&label=Star&maxAge=2592000)) - Voxel-based Game Engine for MineScroll (based on AlwayGeeky's Vox)
 * LumixEngine ([github](https://github.com/nem0/lumixengine) ![lumixengine](https://img.shields.io/github/stars/nem0/lumixengine.svg?style=social&label=Star&maxAge=2592000)) - 3D Game Engine.
 * [shiva](https://shiva.gitbook.io/project/shiva) ([github](https://github.com/Milerius/shiva) ![Milerius/shiva](https://img.shields.io/github/stars/Milerius/shiva.svg?style=social&label=Star&maxAge=2592000))
@@ -153,7 +188,7 @@ A curated list of awesome projects from my experience
 
 ---
 
-## Software / Web Service
+## [Software / Web Service](#contents)
 
 ### Development
 
@@ -183,7 +218,7 @@ A curated list of awesome projects from my experience
 
 ---
 
-## ETC
+## [ETC](#contents)
 
 ### C++ References / Guidelines
 
@@ -205,6 +240,10 @@ A curated list of awesome projects from my experience
 
 ---
 
-## License
+## [Contributing](#contents)
+
+Contributions are very welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first. Also, please feel free to report any error.
+
+## [License](#contents)
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
